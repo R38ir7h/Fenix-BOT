@@ -1,0 +1,14 @@
+{
+  "main_token": "TOKEN",
+  "mongodb_url": "MONGO",
+  "alexflipnoteApiKey": "7d83917d-e8eb-4e07-8b71-379137a61c13",
+  "developers": ["956051431679467530"],
+  "datadogApiKey": "",
+  "dashboard": "true",
+  "prefix": ">",
+  "arc": "",
+  "youtube_key": "",
+  "cat_api_key": "",
+  "webhook_id": "WEBHOOK1",
+  "webhook_url": "WEBHOOK2"
+}
