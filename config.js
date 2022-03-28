@@ -1,10 +1,10 @@
 module.exports = {
    "verification": "",
    "description": "",
-   "domain":"https://Fenix-bot.forsakenworld.repl.co",
+   "domain":"https://fenix-bot-rebirth.herokuapp.com",
    "google_analitics": "", 
    "token": "TOKEN",
-   "https":"https://Fenix-bot.forsakenworld.repl.co",
+   "https":"https://fenix-bot-rebirth.herokuapp.com",
    "port":"5003",
    "client_id":"956054508394385418",
    "secret":"SECRET",
