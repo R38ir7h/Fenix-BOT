@@ -1,2 +1,3 @@
 Worker: node shard.js
-Web: index.js
+web: index.js
+web: gunicorn
