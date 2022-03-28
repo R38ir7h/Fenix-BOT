@@ -11,4 +11,4 @@ module.exports = {
    "support_server_link":"https://discord.gg/zKu58KSPTh",
    "bot_name":"Феникс"
   }
-
+client.login(process.env.TOKEN);
