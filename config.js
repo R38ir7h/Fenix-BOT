@@ -3,7 +3,7 @@ module.exports = {
    "description": "",
    "domain":"https://fenix-bot-rebirth.herokuapp.com",
    "google_analitics": "", 
-   "token": "OTU2MDU0NTA4Mzk0Mzg1NDE4.YjqpJQ.GR7BEtWnqZEWEd0maG0rxSTgmc0",
+   "token": "ssssssss",
    "https":"https://fenix-bot-rebirth.herokuapp.com",
    "port":"8080",
    "client_id":"956054508394385418",
