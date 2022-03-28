@@ -7,7 +7,7 @@ const client = new Discord.client();
 
 
 const manager = new Discord.ShardingManager('./index.js', {
-
+  token: token,
  //autoSpawn: true,
   //totalShards: 'auto'
   totalShards: 1
