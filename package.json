@@ -1,6 +1,7 @@
 {
   "main": "shard.js",
   "scripts": {
+    "start": "node index.js",
     "node": "node shard.js",
     "dev": "nodemon shard.js",
     "lavalink": "java -jar Lavalink.jar"
