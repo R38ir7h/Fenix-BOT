@@ -6,7 +6,7 @@ const { token } = require('./utils/variables.js');
 
 
 const manager = new Discord.ShardingManager('./index.js', {
-  client.login(process.env['TOKEN']);
+  token: token,
  //autoSpawn: true,
   //totalShards: 'auto'
   totalShards: 1
